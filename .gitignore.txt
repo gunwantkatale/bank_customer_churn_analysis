@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables / secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Large datasets (optional)
+data/raw/
+*.zip
+*.xlsx
+*.csv
+
+# Logs
+*.log
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Power BI temp files
+*.tmp
+
+# OS temp files
+*.bak

@@ -1,0 +1,13 @@
+Data manipulation
+
+pandas
+numpy
+
+Data visualization (optional for EDA)
+
+matplotlib
+seaborn
+
+Excel/CSV support
+
+openpyxl
