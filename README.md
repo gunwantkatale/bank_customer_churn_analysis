@@ -99,7 +99,7 @@ Key Business Insights
 
 Dashboard Preview
 
-Add dashboard screenshots here.
+<img width="895" height="596" alt="bank_churn_dashboard" src="https://github.com/user-attachments/assets/42834602-2fb8-4b75-a642-ef74af22f67d" />
 
 Example:
 
